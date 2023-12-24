@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Miles
 
 Passionate | Developer | Explorer
 
-Welcome to my GitHub profile! I'm a [Your Profession] with a keen interest in [Your Interests]. I love to explore new technologies and build exciting projects. Feel free to explore my repositories and connect with me.
+Welcome to my GitHub profile! I'm a Junior Developer. I love to explore new technologies and build exciting projects. Feel free to explore my repositories and connect with me.
 
 ## 🔧 Skills & Technologies
 
