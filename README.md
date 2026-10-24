@@ -16,8 +16,8 @@ yellow
 
 - Unity C# Game Development
 - Object Oriented Programming
-- LANSA Front-end Development
-- Computer Vision
+- LANSA Full Stack Development
+- Adept in AI Agent and Companion Usage
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
